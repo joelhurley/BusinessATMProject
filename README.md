@@ -1,0 +1,1 @@
+Project I made as part of my Software Development Level 4 Skills Bootcamp. The aim of the project was to create a banking application for a client, with the ability for the client to open accounts, manage current accounts, and manage money such as depositing and withdrawing. 
